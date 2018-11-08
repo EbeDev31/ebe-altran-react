@@ -1,3 +1,11 @@
+"npm install twitter" will be required in a2
+
+then
+
+"npm install" within the root project
+
+--------------------------------------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
