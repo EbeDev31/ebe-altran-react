@@ -1,0 +1,19 @@
+{
+  "name": "ebe-twitter",
+  "version": "1.0.0",
+  "description": "app to retrieve twits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ebe",
+    "dev"
+  ],
+  "author": "ebe dev",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11",
+    "twitter-node-client": "0.0.6"
+  }
+}
